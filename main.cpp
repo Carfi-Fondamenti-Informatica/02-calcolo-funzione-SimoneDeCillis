@@ -5,7 +5,7 @@ int main(){
    cin>>a>>b>>x>>y;
    if(x<0 && y>0)
    {
-   z=a*b-b*y;
+   z=a*x-b*y;
    }
    else if(x>=0 && y<=0)
    {
