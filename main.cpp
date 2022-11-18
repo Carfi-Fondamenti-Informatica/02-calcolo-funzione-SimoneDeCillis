@@ -12,8 +12,7 @@ int main() {
    else if(x>=0 && y<=0){
       z=((a*x*x)-(b*y));
       cout<< z;
-   }
-   else z=((a*x)+(b*y*y));
+   }else z=((a*x)+(b*y*y));
    cout<<z;
    return 0;
 }
