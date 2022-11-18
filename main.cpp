@@ -8,6 +8,7 @@ int main() {
    if(x<0 && y>0) {
       z=((a*x)-(b*y));
       cout<< z;
+      
    }
    else if(x>=0 && y<=0){
       z=((a*x*x)-(b*y));
